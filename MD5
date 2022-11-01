@@ -1,0 +1,11 @@
+0f9057c7389274d469f3953ca224f364 *DESCRIPTION
+cbadbc77bc038db0bb310367efe1d407 *NAMESPACE
+34c781fb7e25820b4d21c4dd5297556f *R/stirling2.R
+e74bfedd99cc9a396fd1e28dc2a60cbe *build/vignette.rds
+a4bdc0c8f630b6f600e5e6347e02bf61 *inst/doc/Intro_to_Combinatorics.R
+534a5bd03f5b115ba5c8c04a867845a6 *inst/doc/Intro_to_Combinatorics.Rmd
+0ce316ffa0272dce1c743faa67410ef2 *inst/doc/Intro_to_Combinatorics.html
+b03904af3351753912543e2d6bb256ef *man/stirling2.Rd
+4f8a3b950bd60871bcf787cb68f36dc4 *tests/testthat.R
+b17b48dfc55de7abf30ebea99bf856bd *tests/testthat/test-stirling2.R
+534a5bd03f5b115ba5c8c04a867845a6 *vignettes/Intro_to_Combinatorics.Rmd

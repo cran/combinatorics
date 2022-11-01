@@ -1,0 +1,26 @@
+---
+title: "Introduction to Combinatorics"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to Combinatorics}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(combinatorics)
+```
+
+This package helps the user to calculate the Stirling numbers of second kind for some given value of n and k.
+
+```{r}
+#example-1
+Stirling2(3,2)
+```
